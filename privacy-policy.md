@@ -1,43 +1,126 @@
-# Terms of Service
+# Rentmo – Privacy Policy
 
-## 1. Introduction
 
-Welcome to Rentmo ("we," "our," or "us"). These Terms of Service govern your access to and use of our mobile application and related services (collectively, the "Service").
+Rentmo respects your privacy. This Privacy Policy explains how we collect, use, store, share, and protect your personal information in accordance with applicable data protection laws, including the Philippine Data Privacy Act of 2012 (RA 10173).
 
-By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access the Service.
+---
 
-## 2. Accounts
+## 1. Information We Collect
 
-When you create an account with us, you must provide accurate and complete information. You are responsible for maintaining the confidentiality of your account and password.
+### 1.1 Account Information
+- Name
+- Email address
+- Mobile number
+- Encrypted authentication credentials
+- Profile details and preferences
 
-## 3. Use of Service
+### 1.2 Usage Information
+- Device information
+- App interaction data
+- Log files and analytics
+- Diagnostic and performance data
 
-You agree to use the Service only for lawful purposes and in accordance with these Terms. You agree not to:
+### 1.3 Property and Tenant Data
+Data entered by users may include:
+- Property, room, and bedspace details
+- Tenant names and contact information
+- Rental amounts, payment records, and utilities
 
-- Use the Service in any way that violates any applicable law
-- Engage in unauthorized access to our systems
-- Interfere with the operation of the Service
+Users retain control over all property and tenant data they upload to Rentmo.
 
-## 4. Intellectual Property
+---
 
-The Service and its original content, features, and functionality are owned by Rentmo and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
+## 2. How We Use Your Information
 
-## 5. Termination
+We use personal data to:
+- Provide and operate Rentmo’s core features
+- Authenticate users and secure accounts
+- Manage properties, tenants, payments, and utilities
+- Send service-related notifications and reminders
+- Improve application performance, reliability, and security
 
-We may terminate or suspend access to our Service immediately, without prior notice, for any reason whatsoever, including without limitation if you breach the Terms.
+Rentmo does not sell personal data or use it for advertising.
 
-## 6. Limitation of Liability
+---
 
-In no event shall Rentmo, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages.
+## 3. Legal Basis for Processing
 
-## 7. Governing Law
+We process personal data based on:
+- User consent
+- Contractual necessity to provide the Rentmo service
+- Legitimate interests such as system security, fraud prevention, and service improvement
 
-These Terms shall be governed and construed in accordance with the laws of the Philippines, without regard to its conflict of law provisions.
+---
 
-## 8. Changes
+## 4. Data Sharing
 
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will provide notice of any significant changes by updating the date at the top of these Terms.
+Personal data may be shared with:
+- Cloud hosting and infrastructure providers
+- Authentication, SMS, email, and notification services
+- Analytics and monitoring tools
+- Payment processors (if applicable)
+- Government authorities when required by law
 
-## 9. Contact Us
+Tenant and property data are not shared with unrelated third parties.
 
-If you have any questions about these Terms, please contact us at support@informaldevs.com.
+---
+
+## 5. Data Retention
+
+Personal data is retained only for as long as necessary to fulfill its intended purpose or to comply with legal obligations.
+
+Users may delete their account at any time. Upon account deletion, personal data and associated records will be permanently removed from Rentmo’s systems unless retention is required by law.
+
+---
+
+## 6. Account Deletion and Right to Erasure
+
+In accordance with the Philippine Data Privacy Act, users have the right to request the deletion of their personal data.
+
+When a user deletes their account:
+- The user profile and authentication account are permanently removed
+- All properties, tenants, payments, utilities, and related records owned by the user are deleted
+- Active sessions and access tokens are invalidated
+
+Account deletion is irreversible. Certain information may be retained only if required to comply with legal or regulatory obligations.
+
+---
+
+## 7. Data Security
+
+Rentmo implements reasonable and appropriate technical and organizational safeguards, including encryption, access controls, and secure infrastructure. However, no digital system can guarantee absolute security.
+
+---
+
+## 8. Your Rights as a Data Subject
+
+You have the right to:
+- Be informed about data processing
+- Access your personal data
+- Request corrections to inaccurate information
+- Request data export
+- Object to processing where applicable
+- Request deletion of your account and personal data
+- Lodge a complaint with the National Privacy Commission
+
+Requests may be submitted through our support channels.
+
+---
+
+## 9. Children’s Privacy
+
+Rentmo is not intended for individuals under 18 years of age. We do not knowingly collect personal data from minors.
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Continued use of Rentmo after changes take effect constitutes acceptance of the updated policy.
+
+---
+
+## 11. Contact Information
+
+For privacy-related questions or requests, contact:
+
+**support@informaldevs.com**
