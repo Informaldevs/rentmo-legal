@@ -2,7 +2,7 @@
 
 **Last Updated:** January 2025
 
-Rentmo respects your right to control your personal data. You may delete your Rentmo account and associated data at any time.
+Rentmo is intended for users who are **18 years of age or older**. Eligible users may delete their account and associated data at any time.
 
 ---
 
