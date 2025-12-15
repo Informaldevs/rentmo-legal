@@ -1,43 +1,80 @@
-# Terms of Service
+# Rentmo – Terms of Service
 
-## 1. Introduction
+**Version:** 2025-02  
+**Last Updated:** January 2025
 
-Welcome to Rentmo ("we," "our," or "us"). These Terms of Service govern your access to and use of our mobile application and related services (collectively, the "Service").
+These Terms govern your use of the Rentmo mobile application and services.
 
-By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access the Service.
+---
 
-## 2. Accounts
+## 1. Acceptance
 
-When you create an account with us, you must provide accurate and complete information. You are responsible for maintaining the confidentiality of your account and password.
+By using Rentmo, you confirm that you are at least 18 years old and agree to these Terms.
 
-## 3. Use of Service
+---
 
-You agree to use the Service only for lawful purposes and in accordance with these Terms. You agree not to:
+## 2. Service Description
 
-- Use the Service in any way that violates any applicable law
-- Engage in unauthorized access to our systems
-- Interfere with the operation of the Service
+Rentmo is a property and tenant management platform. We do not provide legal, financial, or real estate advice.
 
-## 4. Intellectual Property
+---
 
-The Service and its original content, features, and functionality are owned by Rentmo and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
+## 3. Accounts
 
-## 5. Termination
+You are responsible for maintaining the confidentiality of your account credentials and all activity under your account.
 
-We may terminate or suspend access to our Service immediately, without prior notice, for any reason whatsoever, including without limitation if you breach the Terms.
+---
 
-## 6. Limitation of Liability
+## 4. Acceptable Use
 
-In no event shall Rentmo, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages.
+You agree not to:
+- Use the service unlawfully
+- Attempt unauthorized access
+- Disrupt or damage the service
 
-## 7. Governing Law
+---
 
-These Terms shall be governed and construed in accordance with the laws of the Philippines, without regard to its conflict of law provisions.
+## 5. Subscriptions and Billing
 
-## 8. Changes
+- Rentmo may offer free and paid subscription plans
+- Subscriptions are billed through Google Play or Apple App Store
+- Subscription fees are non-refundable except as required by store policies
+- You are responsible for managing and canceling subscriptions through the app store
 
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will provide notice of any significant changes by updating the date at the top of these Terms.
+---
 
-## 9. Contact Us
+## 6. Account Deletion
 
-If you have any questions about these Terms, please contact us at support@informaldevs.com.
+You may delete your account at any time. Deleting your account does not automatically cancel active subscriptions.
+
+---
+
+## 7. Intellectual Property
+
+All app content, features, and branding belong to Rentmo and may not be reused without permission.
+
+---
+
+## 8. Limitation of Liability
+
+Rentmo is provided “as is.” We are not liable for indirect, incidental, or consequential damages arising from use of the service.
+
+---
+
+## 9. Termination
+
+We may suspend or terminate accounts for violations of these Terms.
+
+---
+
+## 10. Governing Law
+
+These Terms are governed by the laws of the Republic of the Philippines.
+
+---
+
+## 11. Contact
+
+Questions may be directed to:
+
+**support@informaldevs.com**
