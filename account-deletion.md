@@ -1,14 +1,14 @@
 # Account Deletion Policy
 
-**Last updated:** December 2025
+**Last Updated:** January 2025
 
-Rentmo respects your right to control your personal data. You may request deletion of your Rentmo account and associated data at any time.
+Rentmo respects your right to control your personal data. You may delete your Rentmo account and associated data at any time.
 
 ---
 
-## How to Request Account Deletion
+## How to Delete Your Account
 
-You can delete your Rentmo account using **either** of the following methods:
+You may delete your account using either of the following methods.
 
 ### Option 1: Delete Account Inside the App (Recommended)
 
@@ -16,9 +16,9 @@ You can delete your Rentmo account using **either** of the following methods:
 2. Log in to your account
 3. Go to **Settings**
 4. Select **Delete Account**
-5. Confirm the deletion request
+5. Confirm the deletion
 
-Once confirmed, your account deletion will be processed automatically.
+Once confirmed, your account deletion request will be processed.
 
 ---
 
@@ -28,59 +28,63 @@ If you are unable to access the app, you may request account deletion by email.
 
 Send an email to:
 
-**📧 support@rentmo.ph**
+**support@informaldevs.com**
 
-Include the following information:
+Include:
 - Your registered email address or mobile number
 - A clear request to delete your Rentmo account
 
-We may ask for verification to ensure the request is authorized.
+We may request additional verification to ensure the request is authorized.
 
 ---
 
 ## What Data Is Deleted
 
-When your account deletion request is processed, the following data will be permanently deleted or anonymized:
+When your account is deleted, the following data is permanently removed:
 
-- Your Rentmo user account
-- Profile information (name, email, phone number)
+- Your user profile and authentication account
+- Personal information (name, email, mobile number)
 - Properties, rooms, tenants, and rental records you created
-- Subscription records linked to your account
-- Authentication credentials
+- Payments, utilities, and related records
+- App settings and preferences
+
+---
+
+## Subscriptions
+
+- Active subscriptions must be canceled through the **Google Play Store** or **Apple App Store**
+- Deleting your Rentmo account does **not** automatically cancel subscriptions
+- Subscription billing, refunds, and renewals are managed by the respective app store
 
 ---
 
 ## Data Retention
 
-Some data may be retained **only if required by law**, including:
-- Transaction records required for financial or tax compliance
+Certain information may be retained **only if required by law**, such as:
+- Financial or transaction records
 - Records required to resolve disputes or prevent fraud
 
-Retained data will be securely stored and access-restricted.
+Any retained data is securely stored and access-restricted.
 
 ---
 
 ## Processing Time
 
-- Account deletion requests are typically processed within **7 business days**
-- Some data may take up to **30 days** to be fully removed from backups
+- Account deletion requests are usually completed within **7 business days**
+- Backup systems may take up to **30 days** to fully purge deleted data
 
 ---
 
 ## Important Notes
 
 - Account deletion is **permanent and irreversible**
-- Active subscriptions should be canceled through **Google Play Store** before deleting your account
-- Deleting the app alone does **not** delete your account or data
+- Deleting the app alone does **not** delete your account
+- You may export your data before deletion if needed
 
 ---
 
-## Contact Us
+## Contact
 
-If you have questions about account deletion or data privacy, contact us at:
+For questions regarding account deletion or privacy:
 
-**📧 support@informaldevs.com**
-
----
-
-Rentmo is committed to protecting your privacy and complying with applicable data protection laws.
+**support@informaldevs.com**
