@@ -84,4 +84,4 @@ These Terms are governed by the laws of the Republic of the Philippines.
 
 For questions regarding these Terms:
 
-**support@informaldevs.com**
+**support@rentmo.cc**

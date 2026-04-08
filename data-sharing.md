@@ -49,4 +49,4 @@ We implement technical and organizational safeguards to protect personal data.
 ## Data Protection Officer
 
 Contact:
-**support@informaldevs.com**
+**support@rentmo.cc**

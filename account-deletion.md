@@ -28,7 +28,7 @@ If you are unable to access the app, you may request account deletion by email.
 
 Send an email to:
 
-**support@informaldevs.com**
+**support@rentmo.cc**
 
 Include:
 - Your registered email address or mobile number
@@ -87,4 +87,4 @@ Any retained data is securely stored and access-restricted.
 
 For questions regarding account deletion or privacy:
 
-**support@informaldevs.com**
+**support@rentmo.cc**

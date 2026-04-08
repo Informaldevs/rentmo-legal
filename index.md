@@ -9,4 +9,4 @@ Welcome to Rentmo’s legal information page.
 - [Data Sharing Addendum](data-sharing.md)
 - [Account Deletion Policy](account-deletion.md)
 
-If you have questions, contact us at **support@informaldevs.com**.
+If you have questions, contact us at **support@rentmo.cc**.

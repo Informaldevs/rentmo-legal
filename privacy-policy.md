@@ -106,4 +106,4 @@ We may update this policy from time to time. Continued use indicates acceptance 
 
 For privacy concerns:
 
-**support@informaldevs.com**
+**support@rentmo.cc**
